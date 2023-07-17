@@ -1,4 +1,4 @@
-# Polimorfismo-Classes-Abstratas-e-Heran-a
+# Polimorfismo-Classes-Abstratas-e-Heran-a, em Java
 Estudo prática sobre Polimorfismo, Classes Abstratas e Herança
 
 Exercício retirado de https://sites.google.com/a/iftm.edu.br/professor-edson-angoti-junior/programacao-orientada-a-objetos---curso-licenciatura-em-computacao-2011-2/exercicios_classe_abstrata
